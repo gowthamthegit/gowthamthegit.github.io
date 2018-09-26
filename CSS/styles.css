@@ -1,6 +1,17 @@
 .sravya {
   text-align: center;
 }
+.address{
+  text-align: left;
+}
+.phoneNumber{
+  text-align: right;
+}
+.contactDetails{
+  display: flex;
+  justify-content: space-between;
+}
 body{
     font-family: "Calibri";
+    background-color: #9E9E9E;
 }
